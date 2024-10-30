@@ -1,0 +1,3 @@
+[06-Sep-2016 04:51:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/toddaig10/public_html/advice_local_listing/wp-content/plugins/local_listing_pro/inc/class_local_listing_pro_apifuns.php on line 871
+[07-Sep-2016 05:01:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/toddaig10/public_html/advice_local_listing/wp-content/plugins/local_listing_pro/templates/local_listing_pro_business_dashboard.php on line 88
+[07-Sep-2016 05:15:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/toddaig10/public_html/advice_local_listing/wp-content/plugins/local_listing_pro/templates/local_listing_pro_business_dashboard.php on line 88
